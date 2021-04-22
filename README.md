@@ -3,7 +3,7 @@
 
 # Flutter Quest
 
-Flutter Quest es un reto en el cualquier miembro de la communidad de Flutter puede participar. Lo único que se requiere es crear contenido sobre Flutter y compartirlo con la comunidad. 
+Flutter Quest es un reto en el que cualquier miembro de la communidad de Flutter puede participar. Lo único que se requiere es crear contenido sobre Flutter y compartirlo con la comunidad. 
 
 ¿Tan fácil? Si! Videos, directos, charlas, artículos, talleres, librerías, newsletters, podcasts... Todo vale, el único requisito es que sea contenido propio.
 
