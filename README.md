@@ -25,7 +25,6 @@ Ejemplo:
 
 ## Condiciones para participar
 
-- Residir en España
 - El contenido debe ser propio
 - Uso de Flutter 2.0 y null safety
 - No ser dueño de una mascota Dash previamente
