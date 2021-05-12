@@ -27,7 +27,7 @@ Redes sociales:
 <a href="https://www.linkedin.com/in/rene-lazo-5b936614a/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
 
 <!-- Boton votar -->
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
+<a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839988390"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
 
 </br>
 </br>
