@@ -24,9 +24,8 @@ Redes sociales:
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
 -->
 <!-- Linkedin -->
-<!--
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
--->
+<a href="https://www.linkedin.com/in/andy910304/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
+
 
 <!-- Boton votar -->
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
