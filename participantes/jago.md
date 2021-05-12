@@ -17,8 +17,9 @@ Redes sociales:
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954380-40571280-b317-11eb-9234-54b447af42a1.png"  align="left"/> </a>
 -->
 <!-- Youtube -->
+<!--
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954389-41883f80-b317-11eb-82eb-01d29cf67430.png"  align="left"/> </a>
-
+-->
 <!-- Linkedin -->
 <!--
 <a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
