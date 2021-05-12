@@ -29,7 +29,7 @@ Redes sociales:
 -->
 
 <!-- Boton votar -->
-<a href="/#"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
+<a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839989653"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
 
 </br>
 </br>
