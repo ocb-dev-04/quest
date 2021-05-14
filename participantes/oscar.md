@@ -12,7 +12,7 @@ Redes sociales:
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839987951"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
 <br/>
-## Sobre mi
+# Sobre mi
 
 Hola soy Oscar tengo 24 años y soy desarrollador de Software. Soy un desarrollador que le gusta lo que hace. Desde temprana edad me incline por el software y por el maravilloso mundo que lo rodea, mientras aprendía también ayudaba a otros, pues después de todo, la mejor manera de reforzar los conocimientos es mostrándole la información a los demás.
 
@@ -25,11 +25,10 @@ Termino mi introducción con esta frase que me gusta mucho y deja claro la venta
 ### “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos”, Michael Jordan.
 
 
-## Algunos de los videos en mi listas creadas son estos
+# Algunos de los videos en mi listas creadas son estos
 
 En mis videos para la comunidad me centro en apoyar tanto a los nuevos como a los que ya tienen algo de conocimiento por eso tengo listas de reproducción que literalmente son una introducción a Flutter y Dart como por ejemplo esta (Aqui solo pondre algunos de los videos no los pondré todos por obvias razones):
 
-<div style="display: flex; flex-direction: column; width: 500px;">
 <a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=LVhsMHxG0Zs&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=1&t=83s"> 
   <img src="https://i.ytimg.com/vi/LVhsMHxG0Zs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAmwoDdEMAnuvQhLmqrEUaPIONZw" height="200" align="right"/> 
 </a>
@@ -57,5 +56,3 @@ En mis videos para la comunidad me centro en apoyar tanto a los nuevos como a lo
 <a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=NwFUISjK-x8&list=PLuvRaIlbwRWV9pd-mkJJ4NC2kB1zZALUh&index=1&t=34s"> 
 <img src="https://i.ytimg.com/vi/NwFUISjK-x8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGZM3HQPl-M_by-njU-gGxiFVKcA" height="200" align="right"/> 
 </a>
-
-</div>
