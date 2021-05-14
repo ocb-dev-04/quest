@@ -4,14 +4,13 @@
 Redes sociales:
 </br>
 
-<a href="https://twitter.com/oscar_ch_b"> <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"  align="left"/> </a>
+<a href="https://twitter.com/oscar_ch_b"> <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="48" align="left"/> </a>
 
 <a href="https://www.linkedin.com/in/oscarchb/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  align="left"/> </a>
 
 
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839987951"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
-	@@ -39,25 +35,40 @@ Redes sociales:
 
 ## Sobre mi
 
