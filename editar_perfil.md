@@ -2,6 +2,7 @@
 
 ## ¿Cómo editar un perfil?
 
+
 Si eres un participante de Flutter Quest y tienes dudas de como actualizar tu perfil aquí te explicamos los pasos:
 
 1. Accede la url de tu archivo readme. eg. https://github.com/FlutterSpain/quest/blob/main/participantes/example.md
