@@ -33,13 +33,19 @@ En mis videos para la comunidad me centro en apoyar tanto a los nuevos como a lo
   <img src="https://i.ytimg.com/vi/LVhsMHxG0Zs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAmwoDdEMAnuvQhLmqrEUaPIONZw" height="200" align="right"/> 
 </a>
 
+****
+
 <a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=mSyIIBiokb4&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=68s"> 
   <img src="https://i.ytimg.com/vi/mSyIIBiokb4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5UtQ7FcSG8e-02rzddjHWc--Jkg" height="200" align="right"/> 
 </a>
 
+****
+
 <a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=GD0i2PGiG_g&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=27s"> 
   <img src="https://i.ytimg.com/vi/GD0i2PGiG_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGWI_dAIvdpSyx8w9QGTIY08zp_w" height="200" align="right"/> 
 </a>
+
+****
 
 <a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=3MhX33GUr78&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=4"> 
   <img src="https://i.ytimg.com/vi/3MhX33GUr78/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvc3a9bsJmnyYYTz3oSFy-WMR4DQ" height="200" align="right"/> 
