@@ -4,11 +4,11 @@
 Redes sociales:
 </br>
 
-<a href="https://twitter.com/oscar_ch_b"> <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="48" align="left"/> </a>
+<a href="https://twitter.com/oscar_ch_b"> <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="35" align="left"/> </a>
 
-<a href="https://www.linkedin.com/in/oscarchb/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  height="48" align="left"/> </a>
+<a href="https://www.linkedin.com/in/oscarchb/"> <img src="https://user-images.githubusercontent.com/19904063/117954386-41883f80-b317-11eb-8bfc-d47ac0f8027c.png"  height="35" align="left"/> </a>
 
-<a href="https://www.youtube.com/channel/UCr4jAEWSLAUe1AAoq_70nyg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" height="48" align="left"/> </a>
+<a href="https://www.youtube.com/channel/UCr4jAEWSLAUe1AAoq_70nyg"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" height="35" align="left"/> </a>
 <br/>
 <!-- Boton votar -->
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-839987951"> <img src="https://user-images.githubusercontent.com/19904063/117955137-01758c80-b318-11eb-9575-6aba57ba04b5.png" height="48" align="right"/> </a>
