@@ -22,7 +22,7 @@ Me encanta compartir información, ayudar y de esta forma crecer.
 
 Termino mi introducción con esta frase que me gusta mucho y deja claro la ventaja de trabajar en equipo y ayudarnos entre nosotros.
 
-# “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos”, Michael Jordan.
+### “El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos”, Michael Jordan.
 
 
 ## Algunos de los videos en mi listas creadas son estos
