@@ -20,7 +20,7 @@ Ejemplo:
 
 <a href="https://github.com/FlutterSpain/quest/issues/1#issuecomment-818984526">
 <img src="https://user-images.githubusercontent.com/19904063/115755189-608d5480-a39d-11eb-9238-ed8d056f35b0.png" height="32"/>
-  </a>
+</a>
 
 
 ## Condiciones para participar
