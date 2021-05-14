@@ -34,33 +34,30 @@ Termino mi introducción con esta frase que me gusta mucho y deja claro la venta
 
 En mis videos para la comunidad me centro en apoyar tanto a los nuevos como a los que ya tienen algo de conocimiento por eso tengo listas de reproducción que literalmente son una introducción a Flutter y Dart como por ejemplo esta (Aqui solo pondre algunos de los videos no los pondré todos por obvias razones):
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=LVhsMHxG0Zs&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=1&t=83s"> 
+<a margin-bottom= "10px" href="https://www.youtube.com/watch?v=LVhsMHxG0Zs&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=1&t=83s"> 
   <img src="https://i.ytimg.com/vi/LVhsMHxG0Zs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAmwoDdEMAnuvQhLmqrEUaPIONZw" height="200" align="right"/> 
 </a>
 
-<br/><br/>
-
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=mSyIIBiokb4&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=68s"> 
+<a margin-bottom= "10px" href="https://www.youtube.com/watch?v=mSyIIBiokb4&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=68s"> 
   <img src="https://i.ytimg.com/vi/mSyIIBiokb4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5UtQ7FcSG8e-02rzddjHWc--Jkg" height="200" align="right"/> 
 </a>
-<br/><br/>
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=GD0i2PGiG_g&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=27s"> 
+<a margin-bottom= "10px" style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=GD0i2PGiG_g&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=3&t=27s"> 
   <img src="https://i.ytimg.com/vi/GD0i2PGiG_g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGWI_dAIvdpSyx8w9QGTIY08zp_w" height="200" align="right"/> 
 </a>
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=3MhX33GUr78&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=4"> 
+<a margin-bottom= "10px" style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=3MhX33GUr78&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=4"> 
   <img src="https://i.ytimg.com/vi/3MhX33GUr78/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvc3a9bsJmnyYYTz3oSFy-WMR4DQ" height="200" align="right"/> 
 </a>
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=TUH8qxNaYUg&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=5"> 
+<a margin-bottom= "10px" style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=TUH8qxNaYUg&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=5"> 
   <img src="https://i.ytimg.com/vi/TUH8qxNaYUg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUcfj-R7fXx6twFzhbLIlHknTHTA" height="200" align="right"/> 
 </a>
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=JeB-zuLa2sA&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=6&t=4s"> 
+<a margin-bottom= "10px" style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=JeB-zuLa2sA&list=PLuvRaIlbwRWUP8fSdlK9k-cVAflWNZdtK&index=6&t=4s"> 
   <img src="https://i.ytimg.com/vi/JeB-zuLa2sA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXs6bFjNmUAd8ANJJl1yLp9Wpzdg" height="200" align="right"/> 
 </a>
 
-<a style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=NwFUISjK-x8&list=PLuvRaIlbwRWV9pd-mkJJ4NC2kB1zZALUh&index=1&t=34s"> 
+<a margin-bottom= "10px" style="margin-bottom: 10px;" href="https://www.youtube.com/watch?v=NwFUISjK-x8&list=PLuvRaIlbwRWV9pd-mkJJ4NC2kB1zZALUh&index=1&t=34s"> 
 <img src="https://i.ytimg.com/vi/NwFUISjK-x8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGZM3HQPl-M_by-njU-gGxiFVKcA" height="200" align="right"/> 
 </a>
