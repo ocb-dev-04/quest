@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<img src="https://drive.google.com/file/d/11KusC6K2TQmQvQrx2DnxYFWtiXB2rzrU/view?usp=sharing" height="120" width="120" align="left"/> **Oscar Chavez**
+<img src="https://lh3.googleusercontent.com/ogw/ADGmqu-rQiEtkRZPf-KVCd7m4ufdnRJwWXiBsLV4YTihwg=s32-c-mo" height="120" width="120" align="left"/> **Oscar Chavez**
 
 Redes sociales:
 </br>
